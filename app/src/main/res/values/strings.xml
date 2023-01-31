@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">session2App</string>
+    <string name="lab_2_gui">Lab 2 GUI</string>
+    <string name="click_here">click here</string>
+    <string name="check_this_out">check this out</string>
+    <string name="switch_on_off">Switch on / off</string>
+    <string name="enter_name_here">Enter Name Here</string>
+    <string name="Here_is_more_information">Here is more information</string>
+    <string name="The_switch_is_now_on">The switch is now on</string>
+    <string name="The_switch_is_now_off">The switch is now off</string>
+
+
+
+
+    The switch is now
+</resources>
